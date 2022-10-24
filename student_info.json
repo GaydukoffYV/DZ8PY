@@ -328,6 +328,20 @@
       "birthdate": "18.01.1981",
       "classroom": "11",
       "achievement": "Хорошист"
+    },
+    {
+      "name": "Иванов",
+      "family": "Иван",
+      "birthdate": "12.12.1978",
+      "classroom": "3",
+      "achievement": "хор"
+    },
+    {
+      "name": "frfrf",
+      "family": "rfrf",
+      "birthdate": "12.12.1234",
+      "classroom": "3",
+      "achievement": "d"
     }
   ]
 }
